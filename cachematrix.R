@@ -1,6 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
 ## this function gives the inverse matrix, I use solve function to do this.
 
 makeCacheMatrix <- function(x = matrix()) {
